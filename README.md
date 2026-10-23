@@ -3,7 +3,7 @@ Name: Shaik Mustafavali
 branch: CSM
 section: 2 
 roll number: 26000978
-test cases done are:
+test case studies done are:
 1. University Scholarship Allocation
 2. Smart Parking Fee Management
 3. Smart Canteen Order and Stock Management
